@@ -1,0 +1,12 @@
+[
+  {
+    "title": "First news",
+    "description": "This is the first news item",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "title": "Second news",
+    "description": "This is the second news item",
+    "image": "https://picsum.photos/201"
+  }
+]
