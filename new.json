@@ -8,5 +8,10 @@
     "title": "Second news",
     "description": "This is the second news item",
     "image": "https://picsum.photos/201"
+  },
+    {
+    "title": "third  news",
+    "description": "This is the second news item",
+    "image": "https://picsum.photos/201"
   }
 ]
